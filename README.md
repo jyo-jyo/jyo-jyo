@@ -5,8 +5,8 @@ I'm a beginner 😥
 
 So I'm working hard 🔥
 
-![blog Badge](https://img.shields.io/badge/blog-FF5722.svg?&logo=Blogger&logoColor=white)
-![GMail Badge](https://img.shields.io/badge/GMail-EA4335.svg?&logo=GMail&logoColor=white)
+[![blog Badge](https://img.shields.io/badge/blog-FF5722.svg?&logo=Blogger&logoColor=white&link=https://velog.io/@hyeom1027)](https://velog.io/@hyeom1027)
+[![GMail Badge](https://img.shields.io/badge/GMail-EA4335.svg?&logo=GMail&logoColor=white&link=https://velog.io/@hyeom1027)](mailto:hyeom1027@gmail.com)
 
 ## 🌱 I’m currently learning
 
